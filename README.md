@@ -168,37 +168,21 @@ YearMonth
 
 # Technology Stack
 
-Technology
+Technology                         Purpose
 
-Purpose
+Python                          Data cleaning, EDA, transformation
 
-Python
+Google Colab                    Python analysis environment
 
-Data cleaning, EDA, transformation
+Julius AI                       AI-assisted analysis and pattern discovery
 
-Google Colab
+MySQL                           Data storage and SQL analysis
 
-Python analysis environment
+SQL                             Business queries and customer/revenue analysis
 
-Julius AI
+Power BI                        Interactive dashboards and visualization
 
-AI-assisted analysis and pattern discovery
-
-MySQL
-
-Data storage and SQL analysis
-
-SQL
-
-Business queries and customer/revenue analysis
-
-Power BI
-
-Interactive dashboards and visualization
-
-GitHub
-
-Version control and portfolio presentation
+GitHub                          Version control and portfolio presentation
 
 # Repository Structure
 
