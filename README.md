@@ -37,35 +37,34 @@ Convert analytical findings into business recommendations
 Present findings through interactive Power BI dashboards
 
 ## Project Workflow
-
 Raw Retail Dataset
-        
+        ↓
 Python / Google Colab
-        
+        ↓
 Data Cleaning + EDA + Transformation
-        
+        ↓
 Julius AI
-        
+        ↓
 AI-Assisted Pattern Discovery
-        
+        ↓
 MySQL
-        
+        ↓
 SQL Business Analysis
-        
+        ↓
 Revenue Analysis
-        
+        ↓
 Product Analysis
-        
+        ↓
 Customer Analysis
-        
+        ↓
 RFM Analysis
-        
+        ↓
 Churn Analysis
-        
+        ↓
 Business Insights
-        
+        ↓
 Recommendations
-        
+        ↓
 Power BI Dashboard
 
 ## Key Analysis Areas
@@ -168,21 +167,21 @@ YearMonth
 
 # Technology Stack
 
-Technology                         Purpose
+Technology        ------                 Purpose
 
-Python                          Data cleaning, EDA, transformation
+Python             ------             Data cleaning, EDA, transformation
 
-Google Colab                    Python analysis environment
+Google Colab     ------               Python analysis environment
 
-Julius AI                       AI-assisted analysis and pattern discovery
+Julius AI        ------               AI-assisted analysis and pattern discovery
 
-MySQL                           Data storage and SQL analysis
+MySQL              ------             Data storage and SQL analysis
 
-SQL                             Business queries and customer/revenue analysis
+SQL           ------                  Business queries and customer/revenue analysis
 
-Power BI                        Interactive dashboards and visualization
+Power BI         -------               Interactive dashboards and visualization
 
-GitHub                          Version control and portfolio presentation
+GitHub        -------                  Version control and portfolio presentation
 
 # Repository Structure
 
