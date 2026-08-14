@@ -39,33 +39,33 @@ Present findings through interactive Power BI dashboards
 ## Project Workflow
 
 Raw Retail Dataset
-        ↓
+        
 Python / Google Colab
-        ↓
+        
 Data Cleaning + EDA + Transformation
-        ↓
+        
 Julius AI
-        ↓
+        
 AI-Assisted Pattern Discovery
-        ↓
+        
 MySQL
-        ↓
+        
 SQL Business Analysis
-        ↓
+        
 Revenue Analysis
-        ↓
+        
 Product Analysis
-        ↓
+        
 Customer Analysis
-        ↓
+        
 RFM Analysis
-        ↓
+        
 Churn Analysis
-        ↓
+        
 Business Insights
-        ↓
+        
 Recommendations
-        ↓
+        
 Power BI Dashboard
 
 ## Key Analysis Areas
