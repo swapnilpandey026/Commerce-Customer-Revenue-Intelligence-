@@ -183,38 +183,6 @@ Power BI         -------               Interactive dashboards and visualization
 
 GitHub        -------                  Version control and portfolio presentation
 
-# Repository Structure
-
-Commerce-Customer-Revenue-Intelligence/
-│
-├── README.md
-│
-├── Python/
-│   └── analysis.ipynb
-│
-├── Julius_AI/
-│   └── julius_ai_analysis.md
-│
-├── SQL/
-│   ├── 01_Data_Validation/
-│   │   └── data_validation.sql
-│   ├── 02_Revenue_Analysis/
-│   │   └── revenue_analysis.sql
-│   ├── 03_Product_Analysis/
-│   │   └── product_analysis.sql
-│   ├── 04_Customer_Analysis/
-│   │   └── customer_analysis.sql
-│   ├── 05_RFM_Analysis/
-│   │   └── rfm_analysis.sql
-│   ├── 06_Churn_Analysis/
-│   │   └── churn_analysis.sql
-│   ├── 07_Business_Insights/
-│   │   └── business_insights.sql
-│   └── 08_Recommendations/
-│       └── recommendations.sql
-│
-└── PowerBI/
-    └── Commerce_Customer_Revenue_Intelligence.pbix
 
 # Portfolio Summary
 
