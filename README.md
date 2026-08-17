@@ -198,13 +198,3 @@ The final dashboard provides actionable insights into sales, products, customers
 
 
 **One important thing:** don't claim anything in the README that isn't actually in your dashboard. Keep the description aligned with what you built.
-
----
-
-# 3. Prepare your interview explanation
-
-Don't explain the project by saying:
-
-> "I made some charts in Power BI."
-
-Instead, explain it as an **end-to-end analytics project**.
